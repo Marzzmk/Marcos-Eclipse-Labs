@@ -1,2 +1,2 @@
-print("adiosmundo")
-print("Hola")
+console.log("Eclipse Labs")
+
